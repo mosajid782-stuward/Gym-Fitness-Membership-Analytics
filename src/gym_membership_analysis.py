@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 
 # Gym & Fitness Center Membership Analytics
+# Name: MO SAJID |||  Addmission NO. : 2026B01010277
+
+# Github Repo Link : https://github.com/mosajid782-stuward/Gym-Fitness-Membership-Analytics
 # Run from the project root OR from this notebook. The CSV path is resolved automatically.
 
 from pathlib import Path
